@@ -11,8 +11,8 @@ I'm a Master's student in Bioengineering @ UC San Diego, working at the intersec
 
 ### 📊 GitHub Stats
 
-![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditijantikar&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditijantikar&layout=compact)
 
 ---
 
