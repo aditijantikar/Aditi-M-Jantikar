@@ -20,3 +20,5 @@ I'm a Master's student in Bioengineering @ UC San Diego, working at the intersec
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/aditijantikar/)  
 [![Email](https://img.shields.io/badge/Email-lightgrey?logo=gmail&style=flat-square)](mailto:ajantikar@ucsd.edu)
+
+---
