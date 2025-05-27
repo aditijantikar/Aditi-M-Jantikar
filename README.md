@@ -9,13 +9,6 @@ I'm a Master's student in Bioengineering @ UC San Diego, working at the intersec
 
 ---
 
-### 📊 GitHub Stats
-
-![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditijantikar&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditijantikar&layout=compact)
-
----
-
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/aditijantikar/)  
